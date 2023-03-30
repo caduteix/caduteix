@@ -3,6 +3,10 @@
 - 👨‍💻 Curso - Técnico em Informática 3/3<br>
 - 📓 Estudando Front-End (JavaScript/TypeScript, HTML e CSS)
 
+### Cursos / Certificações:
+
+- Suporte Técnico em Tec. da Informação (Dell Technologies)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cadu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
