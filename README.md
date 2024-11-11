@@ -1,13 +1,4 @@
-## Hi, I'm Carlos Eduardo (Cadu)! 🫶
-
-- 📓 Studying Front-End (JavaScript/TypeScript, HTML e CSS)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cadu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cadu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
+## Hi, I'm Carlos Eduardo (Cadu)! 
 
 ### Courses / Certifications:
 - 👨‍💻 Computer Technician <br>
@@ -19,6 +10,14 @@
 )](https://www.credly.com/earner/earned/badge/17231994-2153-4622-a430-8f5ab68e902d) <a href="https://drive.google.com/u/0/uc?id=1r_RbdrRqmyslSUx0mfUc81MbT_E9CTSL&export=download"> <a href="https://drive.google.com/file/d/1PBuucs_AluzTo_hXFwQEpVFYNMRdbGmW/view?usp=sharing&export=download">
 <img width="175px" height="100px" src="https://leadfortaleza.com.br/ead/assets/images/logo-dell.png"/>
 </a> 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cadu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Cadu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
 
 ### Contact:
 
