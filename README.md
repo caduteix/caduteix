@@ -2,7 +2,7 @@
 
 ### Courses / Certifications:
 - 👨‍💻 Computer Technician <br>
-- 📚 Information Systems 1/8 
+- 📚 Information Systems 2/8 
 - 💻 Technical Support in Information Technology (Dell Technologies)
 - ☁️ AWS Academy Cloud Foundations (Amazon Web Services)
 
